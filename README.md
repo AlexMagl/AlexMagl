@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Aleksandre, but you can call me Alex. I'm currently a Computer Science student.
-## I enjoy learning new things and watching my national sports.
+## I enjoy learning new things and watching national sports.
 <!--
 **AlexMagl/AlexMagl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
